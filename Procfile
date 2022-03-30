@@ -1,0 +1,1 @@
+web: gunicorn trackcart.wsgi --log-file -
